@@ -57,8 +57,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:POPURI SRAVANI
+### Register Number: 212223240117
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
